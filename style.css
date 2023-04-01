@@ -119,7 +119,7 @@ position: relative;
     height:48px;
 }
 
-/* globe */
+
 .globe{
 position: absolute;
 top:-15px;
@@ -160,6 +160,9 @@ left: 110px;
     font-weight: 900;
     font-family: 'Orbitron';
 
+
+
+    
 }
 
 .hero-description{
@@ -170,6 +173,10 @@ left: 110px;
     color: #707170;
     font-family: 'Poppins';
 }
+
+
+
+
 
 
 
@@ -186,6 +193,10 @@ left: 110px;
 
 }
 
+
+
+
+
 .button-join{
     border-radius: 8px;
     font-size: 15px;
@@ -199,6 +210,12 @@ left: 110px;
 }
 
 
+
+
+
+
+
+
 .contact-heading{
     text-align: center;
     margin-top: 30px;
@@ -207,6 +224,9 @@ left: 110px;
     font-weight: 500;
     color: #505150;
 }
+
+
+
 
 .icons{
     margin-top: 12px;
